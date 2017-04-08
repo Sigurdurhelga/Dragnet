@@ -2,6 +2,12 @@
 
 Dragnet is OCR tool for Cyrillic characters using a convolutional neural network. The neural network component is powered by TensorFlow. Dragnet was produced for the Artificial Intelligence class at Reykjavik University in 2017. If you are a student in this class, we highly suggest you refrain from viewing the contents of this repository until you have handed your project in.
 
+An example of a produced document from Dragnet is as follows:
+
+![Image of Dragnet Production](https://raw.githubusercontent.com/Sigurdurhelga/Dragnet/master/images/comparison.png)
+
+The left-hand side is the produced text after running the document on the right-hand side through the Optical Character Recognition system.
+
 # Requirements
 
 ## Python Packages
